@@ -1,0 +1,22 @@
+{
+  "name": "react-native-progress-ring",
+  "version": "1.0.0",
+  "description": "React Native Component to visualize percentage into circular shape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "d3": "^5.9.0",
+    "react": "^16.7.0"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.1"
+  }
+}
